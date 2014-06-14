@@ -12,10 +12,10 @@ The purpose of this application is to simulate a casino game, in order to tell i
 There are 3 Players, the bank and 2 players.
 The bank draws 3 cards, the players each draw 2 cards in a 52 cards made game.
 
-The scores are calculated by adding every player cards' value, (exemple: player1 has got a 2 diamond and a 6 spade, his score is 8)
-If a player has 2 cards with the same color, his score is increased by 20.
-If the bank has 3 cards with the same color, her score is increased by 35.
-If the bank has 3 cards with the same value (ex: valet, valet and valet), she wins the game.
+* The scores are calculated by adding every player cards' value, (exemple: player1 has got a 2 diamond and a 6 spade, his score is 8)
+* If a player has 2 cards with the same color, his score is increased by 20.
+* If the bank has 3 cards with the same color, her score is increased by 35.
+* If the bank has 3 cards with the same value (ex: valet, valet and valet), she wins the game.
 
 ## Simulation
 
